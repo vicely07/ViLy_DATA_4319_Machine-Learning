@@ -2,7 +2,9 @@
 
 ## Machine Learning Map
 
-![Machine Learning Map]()
+![Machine Learning Map](https://github.com/vicely07/ViLy_DATA_4319_Machine-Learning/blob/master/Image/7vx.jpg)
+
+![Machine Learning Timeline](https://github.com/vicely07/ViLy_DATA_4319_Machine-Learning/blob/master/Image/1_Z_DnCyKt18RM0aCCrFzaIQ.png)
 
 The purpose of this repository is _not_ to implement machine learning algorithms by using 3<sup>rd</sup> party library one-liners _but_ rather to practice implementing these algorithms from scratch and get better understanding of the mathematics behind each algorithm. That's why all algorithms implementations are called "homemade" and not intended to be used for production.
 
